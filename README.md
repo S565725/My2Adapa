@@ -10,7 +10,14 @@ SECTION WITH AN ORDERED LIST
 ***
 1. Go karting<br>
 3. Exploring snow city<br>
-2. Visiting amusement park
+2. Visiting amusement park<br>
+
+UNORDERED LIST
+
+* Akki rotti<br>
+* Bisi bele bath<br>
+* Obbattu
+
 
 
 
