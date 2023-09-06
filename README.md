@@ -5,4 +5,13 @@ Bangalore, the capital city of **Karnataka**, is a bustling metropolis that has 
 
 In this post, we will take a closer look at 10 such facts that will give you a glimpse into the unique character of this beautiful city.
 
+SECTION WITH AN ORDERED LIST
+
+***
+1. Go karting<br>
+3. Exploring snow city<br>
+2. Visiting amusement park
+
+
+
 
