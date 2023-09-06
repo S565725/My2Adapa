@@ -40,6 +40,28 @@ Badminton | Helps to strengthen the heart muscle | 10 hours
 Basket Ball | Improves coordination and speed | 7 hours
 
 
+Part 8: Pithy 
+
+Quotes
+
+***
+
+Your most unhappy customers are your greatest source of learning. 
+
+Don't waste your time to judge anyone or compare anyone, just focus on yourself and leave behind them. 
+
+> Your most unhappy customers are your greatest source of learning. 
+
+> Don't waste your time to judge anyone or compare anyone, just focus on yourself and leave behind them. 
+
+*Bill gates*
+*Diarykishayri*
+
+
+
+
+
+
 
 
 
